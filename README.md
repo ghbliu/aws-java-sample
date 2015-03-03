@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS SDK for Java Sample Project
 
 A simple Java application illustrating usage of the AWS SDK for Java.
@@ -39,3 +40,6 @@ of the [restrictions for bucket names](http://docs.aws.amazon.com/AmazonS3/lates
 This sample application is distributed under the
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
+=======
+# aws-java-sample
+>>>>>>> 5a0a107e1edbaed0ff14fbbdfd4ea849854e57ba
